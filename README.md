@@ -268,11 +268,11 @@ This tool is intended for:
 
 ```
 js-secret-hunter-pro/
-│
 ├── js_secret_hunter_pro.py
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+├── LICENSE
+├── .gitignore
 ```
 
 ---
